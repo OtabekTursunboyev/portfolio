@@ -1,0 +1,25 @@
+.rasm {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+
+.fon {
+text-align: center;
+}
+.kerak {
+    color: #008000;
+}
+
+.fon-2{
+    background-color: bisque;
+}
+ .table{ 
+    width: 100%;
+ }
+
+ .field{
+    margin-bottom: 14px;
+ }
+
+}
